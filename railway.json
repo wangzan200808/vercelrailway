@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "wz-x-production.up.railway.app"}
+  ]
+}
